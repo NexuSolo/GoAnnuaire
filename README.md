@@ -3,4 +3,4 @@
 - Philippe BONNAFOUS
 - Nicolas THEAU
 
-![gopher](assets/gopher.gif)
+![gopher](./assets/gopher.gif)
